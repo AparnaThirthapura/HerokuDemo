@@ -1,0 +1,12 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+header{
+	background-color: #333333;
+}
+
+#img{ background-color: #1E5792;
+		width:400px;
+		height: 440px; }
